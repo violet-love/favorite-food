@@ -1,1 +1,2 @@
-My favorite food is:
+My favorite food is: Spaghetti and Potatoes
+
